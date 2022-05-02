@@ -1,0 +1,9 @@
+body {
+  font-family: 'Ubuntu', sans-serif !important;
+    background-color: #ece7e4 !important;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
